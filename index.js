@@ -14,7 +14,7 @@ async function init(sourceUrl, startingOrigin, proxyTs) {
       "baseUrlHashReplay": true,
       "proxyOrigin": new URL(startingOrigin).origin,
       "proxyTs": proxyTs,
-      "bannerScript": "banner.js",
+      "proxyBannerUrl": "banner.js",
     },
   };
 
