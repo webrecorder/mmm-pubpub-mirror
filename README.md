@@ -1,3 +1,5 @@
+Mirror of: https://mmm.pubpub.org/ hosted at https://mmm-pubpub.webrecorder.net/
+
 # How to Mirror any Web Site using Web Archives
 
 This template provides a starter to 'mirror' a website from web archives, replacing a previously hosted on another (or same) domain.
